@@ -2,10 +2,10 @@
 Retrain a pre-trained Neural Network to recognize Images
 
 ## Requirements:
-* Python 3.6.2
-* Numpy
-* Tensorflow
-* Keras
+* Python 3.6.2 (https://www.python.org/downloads/release/python-362/)
+* Numpy (https://pypi.org/project/numpy/)
+* Tensorflow (https://pypi.org/project/tensorflow/)
+* Keras (https://pypi.org/project/Keras/)
 
 ## Usage:
 ### Retraining for any Image:
@@ -31,3 +31,5 @@ python -m scripts.label_image --input_height=299 --input_width=299 --image=[file
 
 For more info on training an Image Classifier: 
 https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0
+For doubts email me at:
+atinsaki@gmail.com
