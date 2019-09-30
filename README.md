@@ -9,7 +9,7 @@ Retrain a pre-trained Neural Network to recognize Images
 
 ## Usage:
 ### Retraining for any image:
-*Create a folder in desktop, and extract all files to that folder. Create a folder tf_files inside the main folder.
+* Create a folder in desktop, and extract all files to that folder. Create a folder tf_files inside the main folder.
 Place all images in
 ```
 tf_file/[any_name]/folders.
