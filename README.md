@@ -31,5 +31,9 @@ python -m scripts.label_image --input_height=299 --input_width=299 --image=[file
 
 For more info on training an Image Classifier: 
 https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0
+
+# G00D LUCK
+
 For doubts email me at:
 atinsaki@gmail.com
+
