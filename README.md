@@ -1,7 +1,7 @@
 # Image-Classifier
 Retrain a pre-trained Neural Network to recognize Images
 <p align="center">
-<img src="https://github.com/crypto-code/Image-Classifier/blob/master/assets/model.jpg" width="800" align="middle" />   </p>
+<img src="https://github.com/crypto-code/Image-Classifier/blob/master/assets/model.png" width="800" align="middle" />   </p>
 
 ## Requirements:
 * Python 3.6.2 (https://www.python.org/downloads/release/python-362/)
